@@ -2,6 +2,12 @@
 name = "cls"
 version = "0.1.0"
 edition = "2018"
+description = "A simple cleaner for Linux terminal"
+public = true
+readme = "README.md"
+keywords = ["cls", "cli", "clear"]
+repository = "https://github.com/UsboKirishima/cls"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
