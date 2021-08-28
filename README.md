@@ -8,7 +8,7 @@ A simple cleaner for Linux terminal.
 Package on crates.io **[crates.io/crates/cls](https://crates.io/crates/cls)**\n
 
 
-**Command line**\
+**Command line installation.**
 
 ```fix
 cargo install cls
