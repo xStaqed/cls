@@ -1,5 +1,5 @@
 fn main() {
-    if cfg!(windows) {
+    if cfg!(windows)  {
         std::process::Command::new("cls").status().unwrap();
     } else if cfg!(unix) {
         std::process::Command::new("clear").status().unwrap();
@@ -7,3 +7,5 @@ fn main() {
         std::process::Command::new("clear").status().unwrap();
     }
 }
+
+
